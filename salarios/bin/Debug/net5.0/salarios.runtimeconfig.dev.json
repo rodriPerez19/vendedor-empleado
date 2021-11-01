@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ropeq\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ropeq\\.nuget\\packages"
+    ]
+  }
+}

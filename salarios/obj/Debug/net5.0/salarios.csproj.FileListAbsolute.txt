@@ -1,0 +1,16 @@
+C:\Proyectos\salarios\salarios\bin\Debug\net5.0\salarios.exe
+C:\Proyectos\salarios\salarios\bin\Debug\net5.0\salarios.deps.json
+C:\Proyectos\salarios\salarios\bin\Debug\net5.0\salarios.runtimeconfig.json
+C:\Proyectos\salarios\salarios\bin\Debug\net5.0\salarios.runtimeconfig.dev.json
+C:\Proyectos\salarios\salarios\bin\Debug\net5.0\salarios.dll
+C:\Proyectos\salarios\salarios\bin\Debug\net5.0\ref\salarios.dll
+C:\Proyectos\salarios\salarios\bin\Debug\net5.0\salarios.pdb
+C:\Proyectos\salarios\salarios\obj\Debug\net5.0\salarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\salarios\salarios\obj\Debug\net5.0\salarios.AssemblyInfoInputs.cache
+C:\Proyectos\salarios\salarios\obj\Debug\net5.0\salarios.AssemblyInfo.cs
+C:\Proyectos\salarios\salarios\obj\Debug\net5.0\salarios.csproj.CoreCompileInputs.cache
+C:\Proyectos\salarios\salarios\obj\Debug\net5.0\salarios.dll
+C:\Proyectos\salarios\salarios\obj\Debug\net5.0\ref\salarios.dll
+C:\Proyectos\salarios\salarios\obj\Debug\net5.0\salarios.pdb
+C:\Proyectos\salarios\salarios\obj\Debug\net5.0\salarios.genruntimeconfig.cache
+C:\Proyectos\salarios\salarios\obj\Debug\net5.0\salarios.csproj.AssemblyReference.cache
